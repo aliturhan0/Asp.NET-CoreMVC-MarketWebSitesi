@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\default\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\default\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\food\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\models\\urunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:models\\urunekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\wwwroot\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:wwwroot\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\viewcomponents\\foodlistbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:viewcomponents\\foodlistbycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\default\\components\\categorygetlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\default\\components\\categorygetlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|c:\\users\\alitr\\source\\repos\\coreandfood\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9B28A-3E18-404C-A767-48506D0B4B5C}|CoreAndFood.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "urunEkle.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Models\\urunEkle.cs",
+              "RelativeDocumentMoniker": "Models\\urunEkle.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Models\\urunEkle.cs",
+              "RelativeToolTip": "Models\\urunEkle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:20:42.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\Food.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Models\\Food.cs",
+              "RelativeToolTip": "Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:21:08.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChartController.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "Controllers\\ChartController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:45:31.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T11:42:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\CategoryDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\CategoryDetails.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\CategoryDetails.cshtml",
+              "RelativeToolTip": "Views\\Default\\CategoryDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:56:17.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:18:41.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SiteLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SiteLayout.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SiteLayout.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAG0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T07:48:16.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T14:54:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:49:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddFood.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Food\\AddFood.cshtml",
+              "RelativeDocumentMoniker": "Views\\Food\\AddFood.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Food\\AddFood.cshtml",
+              "RelativeToolTip": "Views\\Food\\AddFood.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:31:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T11:41:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T11:41:51.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:43:01.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:44:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\wwwroot\\web\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\web\\index.html",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\wwwroot\\web\\index.html",
+              "RelativeToolTip": "wwwroot\\web\\index.html",
+              "ViewState": "AgIAAAABAAAAAAAAAAAcwKcBAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-17T07:57:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:54:35.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodListByCategory.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\ViewComponents\\FoodListByCategory.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\FoodListByCategory.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\ViewComponents\\FoodListByCategory.cs",
+              "RelativeToolTip": "ViewComponents\\FoodListByCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:15:55.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:54:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\Components\\CategoryGetList\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Components\\CategoryGetList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Views\\Default\\Components\\CategoryGetList\\Default.cshtml",
+              "RelativeToolTip": "Views\\Default\\Components\\CategoryGetList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T08:48:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\alitr\\source\\repos\\CoreAndFood\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:25:57.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
